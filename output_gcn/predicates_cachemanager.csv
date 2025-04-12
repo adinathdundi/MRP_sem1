@@ -1,0 +1,4 @@
+"(rdflib.term.URIRef('http://www.w3.org/1999/02/22-rdf-syntax-ns#type'),)",0
+"(rdflib.term.URIRef('https://biomedit.ch/rdf/sphn-schema/sphn#hasLabTest'),)",1
+"(rdflib.term.URIRef('https://biomedit.ch/rdf/sphn-schema/sphn#hasSubjectPseudoIdentifier'),)",2
+"(rdflib.term.URIRef('https://biomedit.ch/rdf/sphn-schema/sphn#hasCode'),)",3
