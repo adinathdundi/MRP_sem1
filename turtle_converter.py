@@ -21,6 +21,6 @@ def convert_to_ttl(input_file, output_file):
                 ttl_line = f'<{s}> {p} <{o}> .\n'
             outfile.write(ttl_line)
 
-input_txt_file = 'sphn100.txt'
-output_ttl_file = 'output.ttl'
+input_txt_file = 'data/mgdb100.txt'
+output_ttl_file = 'data/mgdb100.ttl'
 convert_to_ttl(input_txt_file, output_ttl_file)
