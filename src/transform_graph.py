@@ -453,3 +453,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# & C:/Users/staso/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/staso/OneDrive/Pulpit/Nauka/University/Project 2/shared_code/MRP_sem1/src/transform_graph.py" --configuration C:\Users\staso\OneDrive\Pulpit\Nauka\University\Project 2\shared_code\MRP_sem1\data\config.json.example --ind-cache-manager 
