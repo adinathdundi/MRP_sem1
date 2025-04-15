@@ -26,7 +26,7 @@ def main():
     g.bind('sdo',SDO)
     g.bind('owl',OWL)
 
-    g.parse("sphn100.ttl",format="turtle")
+    g.parse("data/sphn100.ttl",format="turtle")
 
     # Parsing command line parameters and necessary configuration
     parser = argparse.ArgumentParser()
